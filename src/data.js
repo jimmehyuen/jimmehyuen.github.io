@@ -4,7 +4,7 @@ export const projects = [
     img: "halfway.png",
     link: "https://www.halfway.fun",
     title: "Halfway",
-    desc: "Website built with Ruby on Rails that takes two addresses and return a half-way meeting point calculated by Mapbox API",
+    desc: "Website built with Ruby on Rails that takes two addresses and return a half-way meeting point calculated by Mapbox API. Username: guest@halfway.fun | Password: guest1",
     github: "https://github.com/sachimp/halfway",
   },
   {
