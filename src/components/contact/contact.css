@@ -32,6 +32,8 @@ position: relative;
   font-size: 60px;
   width: 80%;
   margin-bottom: 50px;
+  /* margin: 50px auto; */
+  /* text-align: center; */
 }
 
 .c-info.item{
@@ -100,6 +102,11 @@ button:hover{
     height: 100vh;
   }
 
+  .c-left{
+    flex: none;
+    margin: 0;
+  }
+
   .c-wrapper {
     flex-direction: column;
     padding: 0px 50px;
@@ -107,7 +114,17 @@ button:hover{
 
   .c-title{
     font-size: 30px;
-    margin-top: 50px;
+    /* margin-top: 50px; */
+    margin: 50px auto;
+    text-align: center;
+  }
+
+  .c-icon{
+    display: block;
+    margin: auto;
+  }
+
+  .c-info{
     text-align: center;
   }
 
