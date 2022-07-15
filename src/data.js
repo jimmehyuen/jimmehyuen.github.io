@@ -2,10 +2,10 @@ export const projects = [
   {
     id: 1,
     img: "halfway.png",
-    link: "https://www.halfway.fun",
+    link: "https://halfwayv2.herokuapp.com",
     title: "Halfway",
-    desc: "Website built with Ruby on Rails that takes two addresses and return a half-way meeting point calculated by Mapbox API. Username: guest@halfway.fun | Password: guest1",
-    github: "https://github.com/sachimp/halfway",
+    desc: "Website built with Ruby on Rails that takes two addresses and return a half-way meeting point calculated by Mapbox API.",
+    github: "https://github.com/jimmehyuen/halfway-2",
   },
   {
     id: 2,
